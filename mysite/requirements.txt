@@ -1,0 +1,5 @@
+django==5.1.3
+python-decouple==3.8
+django-taggit
+markdown
+Pillow

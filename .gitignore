@@ -1,0 +1,5 @@
+mysite/.env
+mysite/.coverage
+.venv
+.idea
+Task.zip
